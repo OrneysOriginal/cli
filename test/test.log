@@ -1,0 +1,6 @@
+2025-03-28 12:21:51,000 INFO django.request: GET /admin/dashboard/ 200 OK [192.168.1.68]
+2025-03-28 12:21:51,000 INFO django.request: GET /admin/dashboard/ 200 OK [192.168.1.68]
+2025-03-27 12:42:28,000 ERROR django.request: Internal Server Error: /admin/dashboard/ [192.168.1.66] - OSError: No space left on device
+2025-03-26 12:47:21,000 DEBUG django.db.backends: (0.33) SELECT * FROM 'dashboard' WHERE id = 67;
+2025-03-26 12:12:11,000 INFO django.request: GET /admin/dashboard/ 201 OK [192.168.1.52]
+2025-03-26 12:25:10,000 INFO django.request: GET /api/v1/users/ 201 OK [192.168.1.61]
